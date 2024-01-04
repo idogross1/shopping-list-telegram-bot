@@ -1,0 +1,5 @@
+getcurrentlist - print list
+deleteitemfromlist - delete an item
+emptylist - delete all items from list
+additemstolist - add items to list
+editlist - edit items
